@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="restServer">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/restServer" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/restServer" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/restServer" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/restServer" recursive="false" type="SOURCES" />
+  </library>
+</component>
